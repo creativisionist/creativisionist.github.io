@@ -1,0 +1,32 @@
+section {
+  margin: 45px 120px;
+}
+
+img {
+  padding-right: 10px;
+  margin:0;
+  float: left;
+}
+
+div {
+  margin: 20px;
+}
+
+h4 {
+  font-style: italic;
+}
+
+a:link {
+  color:white;
+  text-decoration: none;
+}
+
+a:hover {
+  color:transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: grey;
+  text-decoration: none;
+}
